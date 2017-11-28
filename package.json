@@ -1,0 +1,30 @@
+{
+  "name": "sandbox.javascript",
+  "version": "0.0.1",
+  "description": "'Everything JavaScript' Sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjwenger/sandbox.javascript.git"
+  },
+  "keywords": [
+    "es6",
+    "exmascript",
+    "javascript",
+    "jasmine",
+    "mocha",
+    "nodejs"
+  ],
+  "author": "Klaus Wenger <kjwenger@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjwenger/sandbox.javascript/issues"
+  },
+  "homepage": "https://github.com/kjwenger/sandbox.javascript#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
